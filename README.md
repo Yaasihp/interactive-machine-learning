@@ -9,7 +9,7 @@ $\color{lightgreen}{\text{Creates a new Google Spreadsheet named: [PI Name] - [S
 
 
 ```diff
-+ Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]
+! Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]
 ```
 
 ## Projects
