@@ -5,6 +5,8 @@ This repo focuses on experiments in interactive ML, where users are part of the 
 
 ## Why This Matters
 'Interactive ML enables adaptive systems that learn with users, not just from static data. It makes models more flexible, personalized, and responsive.'
+`Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]`
+
 
 ## Projects
 - Active learning interface for medical images
