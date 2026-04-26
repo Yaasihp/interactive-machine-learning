@@ -4,9 +4,13 @@
 This repo focuses on experiments in interactive ML, where users are part of the training or decision loop—labeling, correcting, or guiding AI behavior.
 
 ## Why This Matters
-'Interactive ML enables adaptive systems that learn with users, not just from static data. It makes models more flexible, personalized, and responsive.'
-`Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]`
+interactive ML enables adaptive systems that learn with users, not just from static data. It makes models more flexible, personalized, and responsive.
+$\color{lightgreen}{\text{Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]}}$
 
+
+```diff
++ Creates a new Google Spreadsheet named: [PI Name] - [Sponsor] - [Priority Deadline in MM-DD-YYYY format]
+```
 
 ## Projects
 - Active learning interface for medical images
